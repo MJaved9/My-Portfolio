@@ -1,12 +1,11 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { AiOutlineHtml5 } from "react-icons/ai";
-import {SiCss3 ,SiExpress} from "react-icons/si"
+import {SiCss3} from "react-icons/si"
 import {
   DiJavascript1,
   DiReact,
   DiNodejs,
-  DiMongodb,
   DiGit,
 } from "react-icons/di";
 

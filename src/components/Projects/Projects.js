@@ -36,6 +36,7 @@ function Projects() {
               description="In this website you can find Samsung Products. All Samsung Products are Available here. Login , Add to card,Sorting and filter functionalities are also there."
               tech="LocalStorage |  Doom |  Html  |  javascript  |  bootsrtap  |  CSS"
               link="https://github.com/MJaved9/Samsung-india-clone"
+              linkmedium="https://www.samsung.com/in/"
               linklive="https://mjaved9.github.io/Samsung-india-clone/index.html"
             />
           </Col>
