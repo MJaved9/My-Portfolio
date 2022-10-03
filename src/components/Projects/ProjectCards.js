@@ -27,7 +27,7 @@ function ProjectCards(props) {
         <br/>
         <Card.Text style={{ textAlign: "center" }}>
           <span>Tech Stack: </span> <br />
-          <span className="purple">{props.tech}</span>
+          <span className="">{props.tech}</span>
         </Card.Text>
 
        

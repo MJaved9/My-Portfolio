@@ -7,7 +7,8 @@ import Stylecraze from '../../Assets/Projects/Stylecraze.png'
 
 import SamsumgIndia from "../../Assets/Projects/SamsungIndia.png";
 
-
+import Bitrix from "../../Assets/Projects/Bitrix24.png";
+import Tripvillas from '../../Assets/Projects/Tripvillas.png'
 import Aos from "aos";
 import "aos/dist/aos.css";
 
@@ -28,18 +29,18 @@ function Projects() {
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
 
-          <Col md={5} className="project-card" data-aos="fade-right">
-            <ProjectCard
-              imgPath={SamsumgIndia}
-              isBlog={false}
-              title="Samsung India for Website"
-              description="In this website you can find Samsung Products. All Samsung Products are Available here. Login , Add to card,Sorting and filter functionalities are also there."
-              tech="LocalStorage |  Doom |  Html  |  javascript  |  bootsrtap  |  CSS"
-              link="https://github.com/MJaved9/Samsung-india-clone"
-              linkmedium="https://www.samsung.com/in/"
-              linklive="https://mjaved9.github.io/Samsung-india-clone/index.html"
-            />
-          </Col>
+        <Col md={5} className="project-card" data-aos="fade-right">
+          <ProjectCard
+            imgPath={Bitrix}
+            isBlog={false}
+            title="Bitrix24"
+            description="Bitrix24 is a client management solution that provides a platform for businesses to organize and track interactions with potential or existing clients and partners."
+            tech="NodeJS |  Mongo DB |  React  |  Redux  | Express | Chakra UI  | HTML| bootsrtap  |  CSS | "
+            link="https://github.com/AnshGirdhar1/psychotic-cars-5822"
+            linkmedium="https://www.bitrix24.in/"
+            linklive="https://bitrix24-website-clone.netlify.app/"
+          />
+        </Col>
 
           <Col md={5} className="project-card" data-aos="fade-right">
             <ProjectCard
@@ -54,57 +55,31 @@ function Projects() {
             />
           </Col>
 
-          {/* <Col md={5} className="project-card" data-aos="fade-right">
-            <ProjectCard
-              imgPath={Practo}
-              isBlog={false}
-              title="Practo Clone "
-              description="This project is a clone of Practo.com which is health realated website where you can consult with top Doctors for any health concern and also can buy medicines from there ."
-              tech="HTML  |  CSS  |  JavaScript"
-              link="https://github.com/anjumara07/Practo-Clone-Project"
-              linkmedium="https://medium.com/@anshukelodiya/our-project-team-practo-b6109bd14863"
-              linklive="https://practo-clone-project.netlify.app/"
-            />
-          </Col>
-
-           <Col md={5} className="project-card" data-aos="fade-up">
-            <ProjectCard
-              imgPath={youtube}
-              isBlog={false}
-              title="You Tube Clone"
-              description="A simple mini you tube app."
-              tech="HTML  |  JavaScript  |  CSS"
-              link="https://github.com/anjumara07/mini-youtube"
-              linkmedium=""
-              linklive="https://mini-you-tube-app.netlify.app/"
-            />
-          </Col>
-
-         <Col md={5} className="project-card" data-aos="fade-down">
-            <ProjectCard
-              imgPath={weather}
-              isBlog={false}
-              title="Weather App"
-              description="A simple weather application for users which gives you next 7 days weather information."
-              tech="HTML  |  CSS  | JavaScript"
-              link="https://github.com/anjumara07/weather-app"
-              linkmedium=""
-              linklive="https://my-weather-app-proj.netlify.app/"
-            />
-          </Col>
-
           <Col md={5} className="project-card" data-aos="fade-right">
+          <ProjectCard
+            imgPath={Tripvillas}
+            isBlog={false}
+            title="Tripvillas "
+            description="Largest holiday home rental portal in Asia. Browse your ideal vacation home from over 100000 holiday homes spread across destinations."
+            tech=" React  |  Redux  | Chakra UI  | HTML| bootsrtap  |  CSS | "
+            link="https://github.com/Inder-Pal-github/tripVilla"
+            linkmedium="https://www.tripvillas.com/"
+            linklive="https://tripsvilla-clone-project.netlify.app/"
+          />
+        </Col>
+
+        <Col md={5} className="project-card" data-aos="fade-right">
             <ProjectCard
-              imgPath={tictactoe}
+              imgPath={SamsumgIndia}
               isBlog={false}
-              title="Tic tac Toe Game"
-              description="A simple tic-tac-toe game where users can play the game"
-              tech="ReactJs  |  CSS"
-              link="https://github.com/anjumara07/Tic-Tac-Toe"
-              linkmedium="#"
-              linklive="https://tic-tac-toe-anjum.vercel.app/"
+              title="Samsung India for Website"
+              description="In this website you can find Samsung Products. All Samsung Products are Available here. Login , Add to card,Sorting and filter functionalities are also there."
+              tech="LocalStorage |  Doom |  Html  |  javascript  |  bootsrtap  |  CSS"
+              link="https://github.com/MJaved9/Samsung-india-clone"
+              linkmedium="https://www.samsung.com/in/"
+              linklive="https://mjaved9.github.io/Samsung-india-clone/index.html"
             />
-          </Col> */}
+          </Col>
 
 
         </Row>

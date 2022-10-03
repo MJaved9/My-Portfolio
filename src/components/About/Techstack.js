@@ -1,12 +1,14 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { AiOutlineHtml5 } from "react-icons/ai";
-import {SiCss3} from "react-icons/si"
+import {SiCss3,SiExpress} from "react-icons/si"
+
 import {
   DiJavascript1,
   DiReact,
   DiNodejs,
   DiGit,
+  DiMongodb,
 } from "react-icons/di";
 
 function Techstack() {
@@ -28,18 +30,18 @@ function Techstack() {
         <DiNodejs />
         <p style={{fontSize:"20px", marginTop: "10px" }}>NODE JS</p>
       </Col>
-      {/* <Col xs={4} md={2} className="tech-icons">
+      <Col xs={4} md={2} className="tech-icons">
         <SiExpress />
         <p style={{fontSize:"20px", marginTop: "10px" }}>EXPRESS</p>
-      </Col> */}
+      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
         <p style={{fontSize:"20px", marginTop: "10px" }}>REACT</p>
       </Col>
-      {/* <Col xs={4} md={2} className="tech-icons">
+      <Col xs={4} md={2} className="tech-icons">
         <DiMongodb />
         <p style={{fontSize:"20px", marginTop: "10px" }}>MONGODB</p>
-      </Col> */}
+      </Col>
       
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />

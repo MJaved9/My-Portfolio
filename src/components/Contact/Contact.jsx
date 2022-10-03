@@ -1,6 +1,5 @@
 import React from 'react'
 import { Container } from "react-bootstrap";
-import Particle from '../Particle';
 import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -9,7 +8,6 @@ export const Contact = () => {
     return (
         <div>
             <Container fluid className="contact-section">
-                <Particle />
                 <Container fluid>
              <h1>FIND ME ON</h1>
              <br />
