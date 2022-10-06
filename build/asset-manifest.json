@@ -1,31 +1,33 @@
 {
   "files": {
     "main.css": "./static/css/main.c38c496c.chunk.css",
-    "main.js": "./static/js/main.710244f7.chunk.js",
-    "main.js.map": "./static/js/main.710244f7.chunk.js.map",
+    "main.js": "./static/js/main.ac3c89c2.chunk.js",
+    "main.js.map": "./static/js/main.ac3c89c2.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.98463897.js",
     "runtime-main.js.map": "./static/js/runtime-main.98463897.js.map",
     "static/css/2.eadc512c.chunk.css": "./static/css/2.eadc512c.chunk.css",
-    "static/js/2.26776143.chunk.js": "./static/js/2.26776143.chunk.js",
-    "static/js/2.26776143.chunk.js.map": "./static/js/2.26776143.chunk.js.map",
+    "static/js/2.c06e4196.chunk.js": "./static/js/2.c06e4196.chunk.js",
+    "static/js/2.c06e4196.chunk.js.map": "./static/js/2.c06e4196.chunk.js.map",
     "static/js/3.59f57c90.chunk.js": "./static/js/3.59f57c90.chunk.js",
     "static/js/3.59f57c90.chunk.js.map": "./static/js/3.59f57c90.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.eadc512c.chunk.css.map": "./static/css/2.eadc512c.chunk.css.map",
     "static/css/main.c38c496c.chunk.css.map": "./static/css/main.c38c496c.chunk.css.map",
-    "static/js/2.26776143.chunk.js.LICENSE.txt": "./static/js/2.26776143.chunk.js.LICENSE.txt",
+    "static/js/2.c06e4196.chunk.js.LICENSE.txt": "./static/js/2.c06e4196.chunk.js.LICENSE.txt",
+    "static/media/Bitrix24.f2c48c23.png": "./static/media/Bitrix24.f2c48c23.png",
     "static/media/Javed.52483580.jpeg": "./static/media/Javed.52483580.jpeg",
-    "static/media/JavedResume.275c3c8b.pdf": "./static/media/JavedResume.275c3c8b.pdf",
-    "static/media/Mohd_javed.13242984.png": "./static/media/Mohd_javed.13242984.png",
+    "static/media/JavedResume.6371a50c.pdf": "./static/media/JavedResume.6371a50c.pdf",
+    "static/media/Mohd_javed.e076f009.png": "./static/media/Mohd_javed.e076f009.png",
     "static/media/SamsungIndia.5f017c9e.png": "./static/media/SamsungIndia.5f017c9e.png",
     "static/media/Stylecraze.cb2d8610.png": "./static/media/Stylecraze.cb2d8610.png",
+    "static/media/Tripvillas.64f6c401.png": "./static/media/Tripvillas.64f6c401.png",
     "static/media/style.css": "./static/media/pre.4410c5ba.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.98463897.js",
     "static/css/2.eadc512c.chunk.css",
-    "static/js/2.26776143.chunk.js",
+    "static/js/2.c06e4196.chunk.js",
     "static/css/main.c38c496c.chunk.css",
-    "static/js/main.710244f7.chunk.js"
+    "static/js/main.ac3c89c2.chunk.js"
   ]
 }
